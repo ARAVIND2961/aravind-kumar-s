@@ -1,5 +1,8 @@
 SAVE
 WQ!
+hi where ru 
+
+:wq!
 
 
 
